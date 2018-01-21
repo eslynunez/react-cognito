@@ -1,0 +1,8 @@
+{
+  "_comment": "This file would be named `config`",
+  "region": "eu-west-1",
+  "userPool": "eu-west-1_FAKE",
+  "identityPool": "eu-west-1:d1d15b4f-e872-422a-9fa7-FAKE",
+  "clientId": "2ieipjhutcpoeta6pbFAKE"
+}
+
